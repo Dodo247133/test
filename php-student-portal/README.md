@@ -1,0 +1,1 @@
+PHP demo portal for Azure App Service (Linux, PHP 8.x). No database; demo only.
